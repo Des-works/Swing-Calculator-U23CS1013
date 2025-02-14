@@ -46,13 +46,13 @@ java --version
 1. Clone this Repo or Download it as a Zip File (Using Github Interface)
 
 ```bash
-git clone https://github.com/iamRed-One/Swing-Calculator-U23CS1019
+git clone https://github.com/iamRed-One/Swing-Calculator-U23CS1013
 ```
 
 2. Navigate to project folder
 
 ```bash
-cd Swing-Calculator-U23CS1019
+cd Swing-Calculator-U23CS1013
 ```
 
 3. Complie the java file
